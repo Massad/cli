@@ -13,14 +13,14 @@ This is the official CLI (ta-cli) for [TestApp.io](https://testapp.io) app distr
 #### MacOS & Linux
 
 ```bash
-curl -Ls https://github.com/testappio/cli/releases/latest/download/install | bash
+curl -Ls https://github.com/Massad/cli/releases/latest/download/install | bash
 ```
 
 #### Windows
 
 Currently, we are not supporting `ta-cli config` for Windows.
 
-Download latest [windows release](https://github.com/testappio/cli/releases/latest/download/ta-cli_windows.zip) and unzip it
+Download latest [windows release](https://github.com/Massad/cli/releases/latest/download/ta-cli_windows.zip) and unzip it
 
 ```
 ta-cli.exe publish --api_token=[Your API Token] --app_id=[Your AppID] --release=android --apk=C:/path/to/app.apk
